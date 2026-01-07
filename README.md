@@ -112,7 +112,8 @@ Once signed, the system automatically:
 ---
 
 ## Screenshots & Diagrams
-Screenshots and diagrams illustrating the workflow, permissions, and automation logic are available in the `photo_2026-01-07_12-55-32.jpg` folder.
+Screenshots and diagrams illustrating the workflow, permissions, and automation logic are available in the 
+![ Policy Document Control & Signing Workflow](Reservation-Dashboard.jpg)`photo_2026-01-07_12-55-32.jpg` folder.
 
 > All images are redacted to remove confidential information.
 
