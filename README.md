@@ -112,7 +112,7 @@ Once signed, the system automatically:
 ---
 
 ## Screenshots & Diagrams
-Screenshots and diagrams illustrating the workflow, permissions, and automation logic are available in the `Screenshots/` folder.
+Screenshots and diagrams illustrating the workflow, permissions, and automation logic are available in the `photo_2026-01-07_12-55-32.jpg` folder.
 
 > All images are redacted to remove confidential information.
 
